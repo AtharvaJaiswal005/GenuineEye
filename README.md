@@ -54,7 +54,7 @@ Implemented to avoid `OutOfMemoryError`.
 ## Model Development
 ### Sequential CNN
 - **Vanishing Gradient Problem**: Mitigated using ReLU (Rectified Linear Unit) activation.
-- **ReLU Activation**: Introduces non-linearity, helps with the vanishing gradient problem.
+- **ReLU Activation**: Introduces non-linearity, helps deal with the vanishing gradient problem.
 - **Sigmoid Activation**: Ensures output is between 0 and 1.
 
 ### Training and Hyperparameter Tuning
