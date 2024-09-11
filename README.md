@@ -3,7 +3,7 @@
 ## Group Members
 - Atharva Jaiswal (229309131)
 - Khushi Bansal (229309142)
-- Lakshay Mehta (229309175)
+- Lakshya Mehta (229309175)
 - Yashashvi Sarran (229309119)
 
 ## Project Overview
