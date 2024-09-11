@@ -21,7 +21,7 @@ GenuineEye is a machine learning project aimed at developing a classifier to dis
 - **Yashashvi Sarran (229309119)**: Gathering Data
 - **Khushi Bansal (229309142)**: Preprocessing Data
 - **Atharva Jaiswal (229309131)**: Model Development & Hypertuning
-- **Lakshay Mehta (229309175)**: Performance Evaluation
+- **Lakshya Mehta (229309175)**: Performance Evaluation
 
 ## Data Collection
 ### Choosing from Potential Datasets
