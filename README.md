@@ -15,7 +15,7 @@ GenuineEye is a machine learning project aimed at developing a classifier to dis
 3. Model Development & Hypertuning
 4. Performance Evaluation
 
-![project flow](https://github.com/user-attachments/assets/6da739f1-b0eb-45c0-8e46-6e453f3ff693)
+![Screenshot 2024-09-12 114257](https://github.com/user-attachments/assets/7f0065f1-eacf-4886-a7a9-d0be2e660da8)
 
 ## Roles and Responsibilities
 - **Yashashvi Sarran (229309119)**: Gathering Data
