@@ -1,5 +1,5 @@
 # GenuineEye: RealFake Classifier
-
+---
 ## Group Members
 - Atharva Jaiswal (229309131)
 - Khushi Bansal (229309142)
